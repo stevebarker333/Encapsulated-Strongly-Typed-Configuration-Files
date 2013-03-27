@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="59D45EDD-888F-4504-862A-3A7582C71FE2" ModuleId="API" />
+  <Module PersistentId="5CCDB3B6-5903-4262-BF61-8D29D5D8253F" ModuleId="UI1" />
+  <Module PersistentId="3D92185A-17AF-4792-B1AF-4232139129BD" ModuleId="UI2" />
+</Modules>

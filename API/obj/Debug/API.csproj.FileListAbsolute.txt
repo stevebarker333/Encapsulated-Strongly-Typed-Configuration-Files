@@ -1,0 +1,5 @@
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\API\bin\Debug\API.dll
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\API\bin\Debug\API.pdb
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\API\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\API\obj\Debug\API.dll
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\API\obj\Debug\API.pdb

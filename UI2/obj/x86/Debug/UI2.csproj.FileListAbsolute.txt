@@ -1,0 +1,11 @@
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\bin\Debug\UI2.exe.config
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\bin\Debug\UI2.exe
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\bin\Debug\UI2.pdb
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\bin\Debug\API.dll
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\bin\Debug\API.pdb
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\obj\x86\Debug\UI2.exe
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI2\obj\x86\Debug\UI2.pdb
+C:\Personal\Configuration\UI2\bin\Debug\UI2.exe.config
+C:\Personal\Configuration\UI2\obj\x86\Debug\UI2.exe
+C:\Personal\Configuration\UI2\obj\x86\Debug\UI2.pdb

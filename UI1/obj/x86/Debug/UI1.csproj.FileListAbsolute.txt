@@ -1,0 +1,8 @@
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\bin\Debug\UI1.exe.config
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\bin\Debug\UI1.exe
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\bin\Debug\UI1.pdb
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\bin\Debug\API.dll
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\bin\Debug\API.pdb
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\obj\x86\Debug\UI1.exe
+C:\Users\Steve\Dropbox\Personal\Code Smart\Blog\Config\Configuration\UI1\obj\x86\Debug\UI1.pdb
